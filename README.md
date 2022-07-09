@@ -1,3 +1,6 @@
+Le site la panthère initial : www.xicex.fr
+=
+
 Bonjour,
 
 Pour faire suite à notre réunion de tout à l’heure, voici un compte-rendu de ce qui a été décidé.
@@ -25,3 +28,6 @@ Tu l’imagines, tous ces éléments devront être codés en HTML et CSS. Fais �
 Voilà, je crois que j’ai fait le tour ! N’hésite pas si tu as la moindre question.
 
 Tu trouveras en pièce jointe une maquette de notre site en son état actuel.
+
+Le site modifié (en cours): https://icenatsu.github.io 
+====
